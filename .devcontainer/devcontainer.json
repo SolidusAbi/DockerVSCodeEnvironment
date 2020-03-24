@@ -1,0 +1,6 @@
+{
+    "name": "Docker Wordpress",
+    "dockerComposeFile": ["docker-compose.yaml"],
+    "service": "wordpress",
+    "appPort": "3000"
+}
